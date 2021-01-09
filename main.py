@@ -39,6 +39,7 @@ elif role=='adc':
     print(url)
 
 elif role=='sup':
+    role = 'support'
     print(sup_list1)
     champion = input('チャンピオン名を指定してください')
 
